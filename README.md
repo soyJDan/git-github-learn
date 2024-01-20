@@ -8,7 +8,7 @@ Este repositorio contiene los recursos y materiales necesarios para aprender los
 
 ## Contenido
 
-- **[Git](https://github.com/soyJDan/git-github-learn/tree/main/docs/es/Git):** encontrarás la documentación y guía completa del curso en español. De los comandos y herramientas básicas de Git.
+- **[Git](https://github.com/soyJDan/git-github-learn/tree/main/docs/es/git):** encontrarás la documentación y guía completa del curso en español. De los comandos y herramientas básicas de Git.
 - **[Github](#):** Próximamente.
 
 ## Cómo Usar Este Repositorio
