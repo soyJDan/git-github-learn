@@ -17,7 +17,8 @@ Este repositorio contiene los recursos y materiales necesarios para aprender los
 
 ```bash
 git clone 
-Git](https://github.com/soyJDan/git-github-learn.git```
+Git](https://github.com/soyJDan/git-github-learn.git
+```
 
 2. Explora el directorio `docs/` para acceder a la documentación del curso.
 
